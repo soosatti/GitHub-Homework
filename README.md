@@ -22,7 +22,7 @@ A projekt tartalma:
 
 ### Használata:  
 ```bash
-docker pull soosatti/homework
+sudo docker pull soosatti/homework
 sudo docker run -d -p 80:80 soosatti/homework:latest
 ```
    
