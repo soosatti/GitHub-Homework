@@ -11,7 +11,8 @@ A docker container egy nginx webszervert futtat, a 80-as porton a futtató hosto
 
 A feladat szerinti konténer a Dockerhub-on elérhető: [soosatti/homework](https://hub.docker.com/repository/docker/soosatti/homework/general)
 
-Használata:  ```bash
+### Használata:  
+```bash
 ___docker pull soosatti/homework___
 ```
 
