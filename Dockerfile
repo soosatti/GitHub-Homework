@@ -1,3 +1,4 @@
+#final version
 #create from the latest nginx image
 FROM nginx:latest
 #copy the nginx config file
