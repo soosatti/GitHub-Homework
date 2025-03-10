@@ -21,6 +21,8 @@ A projekt tartalma:
   * `index.html`  - ez tartalmazza a main-page szerint kiírandó üzenetet
   * `nginx.conf`  - nginx konfigurációs fájl, alaphelyzetben van, ezt lehet testreszabni, default port: 80
   * `README.md`   - a kiírás szerint ez a dokumentációs fájl
+  
+  * ./workflows/docker-image.yml - ez konfigurálja a Github Actions folyamatot
 
  
 
