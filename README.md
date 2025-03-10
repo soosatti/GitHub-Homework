@@ -20,6 +20,14 @@ A projekt tartalma:
   * `README.md`   - a kiírás szerint ez a dokumentációs fájl
   * `./workflows/docker-image.yml` - ez konfigurálja a Github Actions folyamatot
 
+### A Github Workflow leírása
+ * a main brachet használja
+ * ubuntu-latest gépet fog létrehozni
+ * repo checkout
+ * Belép a Dockerhub-ra, a felhasználó név és secret key a Github-ban van letárolva
+ * Felépíti a Dockjerfile alapján a konténert
+ * Feltölti a Dockehub-ra a soosatti/homewrok-be, latest tag-gel
+
 ### Használata:  
 ```bash
 sudo docker pull soosatti/homework
