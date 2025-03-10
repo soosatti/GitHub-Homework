@@ -13,7 +13,7 @@ A feladat szerinti konténer a Dockerhub-on elérhető: [soosatti/homework](http
 
 ### Használata:  
 ```bash
-___docker pull soosatti/homework___
+docker pull soosatti/homework
 ```
 
 
